@@ -24,7 +24,7 @@ body {
 }
 
 }
-.centered-main-page-element {
+.main-page {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -63,7 +63,7 @@ button:hover {
 }
 /* Heading */
 h3,
-label[for="new-task"] {
+.add-item-menu__label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -89,7 +89,7 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-label[for="new-task"] {
+.add-item-menu__label {
   display: block;
   margin: 0 0 20px;
 }
