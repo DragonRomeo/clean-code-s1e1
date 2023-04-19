@@ -4,22 +4,22 @@ body {
   color: #333;
   font-family: lato, sans-serif;
 }
-.aaa {
+.eysen-matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa img {
+.eysen-matrix__image {
   width: 100%;
 }
-.aaa .more_inf {
+.eysen-matrix__link {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
 
-.aaa {
+.eysen-matrix {
   text-align: center;
 }
 
